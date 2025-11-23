@@ -1,3 +1,4 @@
+# 🇧🇷
 # 📀 Ice Games — Análise de Padrões de Sucesso no Mercado de Games
 
 Neste projeto, analisei dados da Ice, uma loja online que vende jogos para diversas plataformas no mundo todo. O objetivo foi identificar padrões que ajudam a entender por que alguns jogos se tornam grandes sucessos enquanto outros têm desempenho modesto. A ideia é usar esses padrões para planejar melhor campanhas de marketing e prever quais títulos podem se destacar no futuro.
